@@ -1,3 +1,3 @@
-# owncode
+# mycode
 <br>
 Author: Gourab Das
